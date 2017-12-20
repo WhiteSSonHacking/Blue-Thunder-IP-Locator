@@ -4,9 +4,11 @@ retrieve informations about an ip adress or a hostname This tool is scripted in 
 
 # Before using install & Upgrade perl libs
 
-1.apt-get install liblocal-lib-perl
-2.apt-get install libjson-perl
-3.apt-get upgrade libjson-perl
+$ apt-get install liblocal-lib-perl
+
+$ apt-get install libjson-perl
+
+$ apt-get upgrade libjson-perl
 
 
 
